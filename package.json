@@ -1,0 +1,17 @@
+{
+  "name": "HTTPS-example",
+  "description": "Basic HTTPS server that hosts a simple html page.",
+  "version": "0.0.1",
+  "keywords": [
+    "HTTPS",
+    "HTTPS-example",
+    "SSL"
+  ],
+  "maintainers": [
+    {
+      "name": "CP102",
+      "email": "",
+      "web": ""
+    }
+  ]
+}
