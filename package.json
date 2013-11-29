@@ -1,5 +1,5 @@
 {
-  "name": "HTTPS-example",
+  "name": "https-example",
   "description": "Basic HTTPS server that hosts a simple html page.",
   "version": "0.0.1",
   "keywords": [
